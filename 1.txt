@@ -1,0 +1,13 @@
+{
+    "companyName": "seshadri Rao Gudlavalleru Engineering College",
+    "clientID": "97906400-e19e-43db-b238-67bc1403ea5e",
+    "clientSecret": "hpQMtiaOCLHETcqG",
+    "ownerName": "GayathriSadvika Batchu",
+    "ownerEmail": "gayathrisadvika@gmail.com",
+    "rollNo": "22485A0505"
+}
+{
+    "token_type": "Bearer",
+    "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJNYXBDbGFpbXMiOnsiZXhwIjoxNzE5ODk5NzgwLCJpYXQiOjE3MTk4OTk0ODAsImlzcyI6IkFmZm9yZG1lZCIsImp0aSI6Ijk3OTA2NDAwLWUxOWUtNDNkYi1iMjM4LTY3YmMxNDAzZWE1ZSIsInN1YiI6ImdheWF0aHJpc2FkdmlrYUBnbWFpbC5jb20ifSwiY29tcGFueU5hbWUiOiJzZXNoYWRyaSBSYW8gR3VkbGF2YWxsZXJ1IEVuZ2luZWVyaW5nIENvbGxlZ2UiLCJjbGllbnRJRCI6Ijk3OTA2NDAwLWUxOWUtNDNkYi1iMjM4LTY3YmMxNDAzZWE1ZSIsImNsaWVudFNlY3JldCI6ImhwUU10aWFPQ0xIRVRjcUciLCJvd25lck5hbWUiOiJHYXlhdGhyaVNhZHZpa2EgQmF0Y2h1Iiwib3duZXJFbWFpbCI6ImdheWF0aHJpc2FkdmlrYUBnbWFpbC5jb20iLCJyb2xsTm8iOiIyMjQ4NUEwNTA1In0.PcO8xW1yoXAZxpjmK5PWDSSr3Y8NiLSOVP0lhl2DwT8",
+    "expires_in": 1719899780
+}
